@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @adler09
-- 👀 I’m interested in Webdesign
-- 🌱 I’m currently learning API 
+
 
 
 <!---
